@@ -1,3 +1,4 @@
-tuple=("reshma",1,2,3)
-print("tuple")
-
+t1=('one',2,3)
+t2=('two',9,8)
+t3=t1+t2
+print(t3)
